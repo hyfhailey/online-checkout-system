@@ -1,0 +1,2 @@
+INSERT INTO customer VALUES ('44ad09d0-4401-11ed-b878-0242ac120002', 'Hailey');
+
